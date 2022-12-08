@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02a9b9da82e3044db9f8390951e725b, type: 3}
+  m_Name: Player Info
+  m_EditorClassIdentifier: 
+  nickName: TestUser
+  roomName: Default
+  instructorRoomName: LiveStream
+  isInstructor: 0
+  haveControl: 0
+  inSpace: 0
+  isMultiplayer: 0
+  isLive: 0
+  hasGivenControl: 0
+  isMasterClient: 0
+  isSolvingBarrel: 0
+  isRaycasting: 1
+  isDebug: 0
