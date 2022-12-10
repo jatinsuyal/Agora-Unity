@@ -1,3 +1,3 @@
 # Agora-Unity
 
-View ReadMe.pdf for Details.
+View README.pdf for Details.
